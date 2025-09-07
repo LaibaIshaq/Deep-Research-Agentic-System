@@ -20,3 +20,6 @@ A sophisticated multi-agent research system inspired by OpenAI Deep Research, An
 - **Conflict Detector Agent**: Identifies contradictions between sources
 - **Synthesis Agent**: Combines findings into coherent insights
 - **Report Writer Agent**: Creates professional research reports
+
+##APIs
+env file is in .txt format just for understanding to test out the model, you can create a duplicate file .env with real APIs inside. 
