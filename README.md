@@ -1,7 +1,3 @@
-# Deep Research Agent System
-
-A sophisticated multi-agent research system inspired by OpenAI Deep Research, Anthropic Research, and Google Deep Research. This system can handle complex research questions by breaking them down into manageable tasks, conducting parallel research, evaluating sources, detecting conflicts, and synthesizing findings into professional reports.
-
 ## Features
 
 ### Core Capabilities
@@ -21,5 +17,5 @@ A sophisticated multi-agent research system inspired by OpenAI Deep Research, An
 - **Synthesis Agent**: Combines findings into coherent insights
 - **Report Writer Agent**: Creates professional research reports
 
-##APIs
-env file is in .txt format just for understanding to test out the model, you can create a duplicate file .env with real APIs inside. 
+## APIs
+- env file is in .txt format just for understanding to test out the model, you can create a duplicate file .env with real APIs inside. 
